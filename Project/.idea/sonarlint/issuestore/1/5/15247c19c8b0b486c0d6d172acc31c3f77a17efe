@@ -1,0 +1,8 @@
+
+|python:S1845"_Rename field "Point" to prevent any misunderstanding/clash with field "point" defined on line 7(¼°ƒ·øÿÿÿÿ
+jpython:S117"NRename this parameter "ID" to match the regular expression ^[_a-z][a-z0-9_]*$.(×µôûÿÿÿÿ
+6python:S125"Remove this commented out code.(¹³â¤
+dpython:S1763"GDelete this unreachable code or refactor the code to make it reachable.(¼°ƒ·øÿÿÿÿ
+5python:S3626"Remove this redundant return.(ÙãŞŸ
+fpython:S100"JRename method "Update" to match the regular expression ^[a-z_][a-z0-9_]*$.(„ÿ¼ıøÿÿÿÿ
+ipython:S100"RRename method "UpdateLocation" to match the regular expression ^[a-z_][a-z0-9_]*$.(ú¥ß÷

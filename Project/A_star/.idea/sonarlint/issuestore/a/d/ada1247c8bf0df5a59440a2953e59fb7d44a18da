@@ -1,0 +1,6 @@
+
+wpython:S100"TRename method "GenerateObstacle" to match the regular expression ^[a-z_][a-z0-9_]*$.(ЌК¦Кьяяяя8ЮиЫыЬ1
+Bpython:S125""Remove this commented out code.(Ћ¬› яяяяя8ЮиЫыЬ1
+lpython:S1009"NRename method "IsObstacle" to match the regular expression ^[a-z_][a-z0-9_]*$.(СъІљ8ЮиЫыЬ1
+npython:S100?"KRename method "ShowMap" to match the regular expression ^[a-z_][a-z0-9_]*$.(ј•Опыяяяя8ЮиЫыЬ1
+qpython:S100X"TRename method "GetObstaclePoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚ц€n8ЮиЫыЬ1

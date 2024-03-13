@@ -1,0 +1,39 @@
+
+Mpython:S1066‘"/Merge this if statement with the enclosing one.(§êÆûùÿÿÿÿ
+hpython:S100"LRename method "BaseCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ùá‹—ıÿÿÿÿ
+mpython:S100!"QRename method "HeuristicCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(ôËŒ‚øÿÿÿÿ
+ipython:S100'"MRename method "TotalCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼Ó—‚ùÿÿÿÿ
+cpython:S100+"LRename method "Distance" to match the regular expression ^[a-z_][a-z0-9_]*$.(²ÏØ
+fpython:S100/"PRename method "IsValidPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(è‡Èl
+mpython:S1007"QRename method "IsInPointList" to match the regular expression ^[a-z_][a-z0-9_]*$.(—ÆşÔıÿÿÿÿ
+lpython:S100="PRename method "IsInOpenList" to match the regular expression ^[a-z_][a-z0-9_]*$.(åÓã×øÿÿÿÿ
+mpython:S100@"QRename method "IsInCloseList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ø´ñùÿÿÿÿ
+gpython:S100C"PRename method "IsStartPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹ïèé
+epython:S100F"NRename method "IsEndPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å‡ƒß
+kpython:S100L"TRename method "IsPassedObstacle" to match the regular expression ^[a-z_][a-z0-9_]*$.(îõŞ‰
+;python:S125Q"Remove this commented out code.(Ÿ×Òµıÿÿÿÿ
+cpython:S100a"GRename method "Run" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦²«üşÿÿÿÿ
+qpython:S3776a"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦²«üşÿÿÿÿ
+Epython:S1172Œ",Remove the unused function parameter "path".(Ó¹ó
+epython:S100Œ"MRename method "SaveImage" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ó¹ó
+mpython:S100“"PRename method "ProcessPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰Ğ®•øÿÿÿÿ
+qpython:S100 "YRename method "SelectPointInOpenList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Á£î
+jpython:S100®"MRename method "BuildPath" to match the regular expression ^[a-z_][a-z0-9_]*$.(†©µóşÿÿÿÿ
+7python:S125¿"Remove this commented out code.(¯•Æõ
+gpython:S100Ì"ORename method "IsTurnpoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(èŠê
+Gpython:S1940Í")Use the opposite operator ("!=") instead.(¬ŒšÌÿÿÿÿÿ
+Hpython:S1172Ñ"*Remove the unused function parameter "ax".(½ÜÖúÿÿÿÿ
+rpython:S117†"URename this local variable "Flag" to match the regular expression ^[_a-z][a-z0-9_]*$.(§¨’ûÿÿÿÿ
+qpython:S100Ñ"TRename method "OptimizedPath_v1" to match the regular expression ^[a-z_][a-z0-9_]*$.(½ÜÖúÿÿÿÿ
+rpython:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(½ÜÖúÿÿÿÿ
+<python:S125Ö"Remove this commented out code.(®÷ «ûÿÿÿÿ
+6python:S125Ù"Remove this commented out code.(¼Šê
+6python:S125ã"Remove this commented out code.(¼Šê
+Qpython:S5727ı"3Remove this == comparison; it will always be False.(¹ŠœÂùÿÿÿÿ
+7python:S125”"Remove this commented out code.(¿­¯
+<python:S125š"Remove this commented out code.(×‰‰üùÿÿÿÿ
+6python:S125©"Remove this commented out code.(Êüï
+Npython:S1172´"6Remove the unused function parameter "initial_degree".(£”ŞY
+jpython:S100´"SRename method "CalculateDegree" to match the regular expression ^[a-z_][a-z0-9_]*$.(£”ŞY
+rpython:S117Ï"URename this local variable "Flag" to match the regular expression ^[_a-z][a-z0-9_]*$.(§¨’ûÿÿÿÿ
+gpython:S100Ì"PRename method "PathForRobot" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü¤ã5

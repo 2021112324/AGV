@@ -1,0 +1,26 @@
+
+Mpython:S1066á"/Merge this if statement with the enclosing one.(§êÆûùÿÿÿÿ
+hpython:S100"LRename method "BaseCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ùá‹—ıÿÿÿÿ
+mpython:S100"QRename method "HeuristicCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(ôËŒ‚øÿÿÿÿ
+ipython:S100!"MRename method "TotalCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼Ó—‚ùÿÿÿÿ
+cpython:S100%"LRename method "Distance" to match the regular expression ^[a-z_][a-z0-9_]*$.(²ÏØ
+fpython:S100)"PRename method "IsValidPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(è‡Èl
+mpython:S1001"QRename method "IsInPointList" to match the regular expression ^[a-z_][a-z0-9_]*$.(—ÆşÔıÿÿÿÿ
+lpython:S1007"PRename method "IsInOpenList" to match the regular expression ^[a-z_][a-z0-9_]*$.(åÓã×øÿÿÿÿ
+mpython:S100:"QRename method "IsInCloseList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ø´ñùÿÿÿÿ
+gpython:S100="PRename method "IsStartPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹ïèé
+epython:S100@"NRename method "IsEndPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å‡ƒß
+kpython:S100C"TRename method "IsPassedObstacle" to match the regular expression ^[a-z_][a-z0-9_]*$.(îõŞ‰
+;python:S125F"Remove this commented out code.(Ÿ×Òµıÿÿÿÿ
+jpython:S100N"SRename method "RunAndSaveImage" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÔøŒç
+lpython:S3776N"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÔøŒç
+Dpython:S1172y",Remove the unused function parameter "path".(Ó¹ó
+dpython:S100y"MRename method "SaveImage" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ó¹ó
+mpython:S100€"PRename method "ProcessPoint" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰Ğ®•øÿÿÿÿ
+qpython:S100"YRename method "SelectPointInOpenList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Á£î
+jpython:S100™"MRename method "BuildPath" to match the regular expression ^[a-z_][a-z0-9_]*$.(†©µóşÿÿÿÿ
+Hpython:S1172´"*Remove the unused function parameter "ax".(´Ü“åûÿÿÿÿ
+rpython:S117Ô"URename this local variable "Flag" to match the regular expression ^[_a-z][a-z0-9_]*$.(§¨’ûÿÿÿÿ
+npython:S100´"QRename method "OptimizedPath" to match the regular expression ^[a-z_][a-z0-9_]*$.(´Ü“åûÿÿÿÿ
+rpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(´Ü“åûÿÿÿÿ
+7python:S125å"Remove this commented out code.(Š®äŸ
